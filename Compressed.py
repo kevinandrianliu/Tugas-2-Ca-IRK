@@ -159,6 +159,7 @@ def doCompress(fileName):
 			file_huffman_path.close()
 		file_object.close()
 		nama = fileName
+		os.remove(fileName)
 		return Compressed() # since the result in doCompress is an instance of class Compressed
 	else:
 		print("Wrong file extension. File extension must be '.txt'")

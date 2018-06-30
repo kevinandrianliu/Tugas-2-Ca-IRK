@@ -31,5 +31,7 @@ Jadi, kompleksitas algoritma decompress adalah O(p)
 
 Namun, saya masih belum dapat menyertakan pembacaan file PDF sehingga saya akan menyertakan beberapa sampel teks, untuk penggunaannya sendiri, saya akan melampirkan file makefile yang sudah dimodifikasi agar membaca file teks saja.
 
+Terima kasih kepada Bhirigu Srivastava atas idenya dan teks input yang bisa digunakan sebagai file input. Untuk selengkapnya, dapat dilihat di:[Bhirigu Srivastava's blog](http://bhrigu.me/blog/2017/01/17/huffman-coding-python-implementation/)
+
 Nama: Kevin Andrian Liwinata
 NIM: 13516118
